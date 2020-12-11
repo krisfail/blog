@@ -34,7 +34,7 @@ social_links:
    # - username:kris57
    #   instance:mstdn.jp
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
