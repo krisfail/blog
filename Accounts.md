@@ -61,8 +61,7 @@ GitLab:yuuki76
   
 ### SNS  
   
-Twitter:@8A4AK,@8A4MB  
-(keybase.io/yuuki76/sigchain#1d0921a24b2c57fb3c2f8dbdb5a5ec0642d00ad151980787ec6fbd0523fcad400f),
+Twitter: ~~@8A4AK,@8A4MB~~  
 @kris35L,@P0IiticaI  
 Instagram:非公開(直接連絡して、どうぞ)  
 @kris57@mstdn.jp  
@@ -73,7 +72,8 @@ Twitch:yuuki14514
 Qiita:@yuuki76  
 note:kris57  
 アニヲタwiki:yuuki76  
-  
+作品DB:[kris57](https://sakuhindb.com/pj/kris57/profile.html)
+あにこれ:kris
 ### Misc  
   
 Niconico:kris(ID:38510435)  
@@ -88,7 +88,8 @@ Monero:4B9ztHPP76J7dM6NhxL4ExfUdVRkyRgRC9rPN2mrXacWaY9PaT4u96GZiVPACFNnd7CgLyiyp
 Loki:L8eWtZP6tYLLHyLeBgBcUQdi57KyZESuUSn3EDZLZucaFqphXepLJj49oJmEatfqkcP5w4RGiZcLzh7yiVQSkGVv7GXc5oQ  
 Cardano:DdzFFzCqrht2SiKwx7gRTj8sWbE9ARVhttXNsnnzP3zVwRKf6jDwu27onqvc9bGv8ALUam8CUH3Ckc2Z1YGnSrFW6BE4EiG4kGhWEjUX  
 Amazon:[欲しい物リスト](https://amazon.jp/hz/wishlist/ls/3F5PGKBJUIAEG)  
-Flightradar24:yuuki76at8A4MB,ADS-B:RJTY243  
+Flightradar24:ADS-B:RJTY243  
 Flightaware:yuuki76  
 はてな:yuuki76  
 Shakyo.io:yuuki76  
+あにこれ:kris
