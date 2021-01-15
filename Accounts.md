@@ -1,6 +1,6 @@
 # Account List
 
-Updated:2020/10/22  
+Updated:2021/01/15  
 
 <details>
   <summary>Mail Address</summary>
@@ -60,7 +60,7 @@ GitLab:yuuki76
 
 ### SNS
 
-Twitter: ~~@8A4AK,@8A4MB~~  
+Twitter: ~~@8A4AK~~@8A4MB(2021/01/14復活)
 @kris35L,@P0IiticaI  
 Instagram:非公開(直接連絡して、どうぞ)  
 @kris57@mstdn.jp  
@@ -81,8 +81,7 @@ Niconico:kris(ID:38510435)
 Yahoo:yukimorifumi  
 Spotify:yuuki76  
 BTC:1qk4ZjySJDoET4REN1YwE5xTV1GBdRVEa  
-Ethereum:0xeCBC0a5B0A4483029debf81077cf4E5C1908D4E6  
-Ripple:rJKzCruoMcBwQgyHQ4GTX32TpDztwsBAhC  
+Ethereum:0xeCBC0a5B0A4483029debf81077cf4E5C1908D4E6   ,0xCD79fa8a3e2f4623a360684D7f5c53a802b9C062  Ripple:rJKzCruoMcBwQgyHQ4GTX32TpDztwsBAhC  
 Zcash:t1MViRBLjo4Ti3sMDtSMwVFGsergNdr2Sqb  
 Monero:4B9ztHPP76J7dM6NhxL4ExfUdVRkyRgRC9rPN2mrXacWaY9PaT4u96GZiVPACFNnd7CgLyiypmA2TR8Zt8wLsRsETepGiU7  
 Loki:L8eWtZP6tYLLHyLeBgBcUQdi57KyZESuUSn3EDZLZucaFqphXepLJj49oJmEatfqkcP5w4RGiZcLzh7yiVQSkGVv7GXc5oQ  
