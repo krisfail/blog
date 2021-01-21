@@ -34,10 +34,9 @@ github_username:  yuuki76
    # - username:kris57
    #   instance:mstdn.jp
 # Build settings
-theme: minimal
+theme: jekyll-theme-primer
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
