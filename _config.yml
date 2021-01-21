@@ -34,7 +34,7 @@ github_username:  yuuki76
    # - username:kris57
    #   instance:mstdn.jp
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
